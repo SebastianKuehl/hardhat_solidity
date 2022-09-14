@@ -15,3 +15,4 @@ npx hardhat run scripts/deploy.ts
 https://chainlist.org/
 9:23 hardhat console
 9:47 hardhat waffle
+10:00 lesson 7 hardhat fund me
